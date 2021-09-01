@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Isaac"
+	],
+	"copyright": "Copyright © 2020, Isaac",
+	"dependencies": {
+		"arsd-official:simpledisplay": "~>10.2.1",
+		"nopromote": "~>0.1.1"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "sorcery"
+}

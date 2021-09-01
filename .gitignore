@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sorcery
+sorcery.so
+sorcery.dylib
+sorcery.dll
+sorcery.a
+sorcery.lib
+sorcery-test-*
+*.exe
+*.o
+*.obj
+*.lst
